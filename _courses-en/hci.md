@@ -1,12 +1,12 @@
 ---
 ref: hci
-title: " Computer Programming"
+title: "Object Oriented Programming"
 author: choko-en
-excerpt: "Top-down techniques, modular, and structured engineering for the production of large programs. Advanced dynamic data structures, basic file processing techniques (serial or random access). Classes and objects. Programming with objects. Operators, variables, methods, relations, dependencies, class diagrams. Functions: declaration, definition, overloading functions. Pointers, references, advanced functions, operator overloading. Inheritance. Polymorphism. Exception handling, error detection and handling. Programming with templates and template libraries. Object-oriented analysis and design. Design models. Predefined libraries. Programming Lab (Chosen language: “C++”)."
+excerpt: "Introduction to the notion of Object Oriented Programming. Basic notions of Java: variables, data, calculations. Branching structures, arrays. Classes, objects and Inheritance in Java. Interaction Environments in Java. The notion of exception and the various exception handling methods. Building Applets and the use of data input/output techniques. Execution threads and parallel programming in Java. Java graphics and animation. Java and web programming. Programming Lab (Chosen language: “Java”)."
 ---
 
-code: ΗΥ110
-semester: 1
+code: ΗΥ130
+semester: 3
 type: "Compulsory"
 hours: 4
 extra: 2L
@@ -14,6 +14,6 @@ ects: 6
 
 
 bibliography: 
-  - "“C++ Προγραμματισμός”, 6η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN 978-960-512-5912, 2011 (in greek)"
-  - "“ΜΑΘΕΤΕ ΤΗ C++ ΑΠΟ ΤΟ ΜΗΔΕΝ”, HERBERT SCHILDT, Εκδόσεις Κλειδάριθμος, ISBN 960-209-731-0, 2004 (in greek)"
-eclass: "https://e-class.ionio.gr/courses/DCS159/"
+  - "“Java προγραμματισμός”, 10η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Χ. ΓΚΙΟΥΡΔΑ ΣΙΑ ΕΕ, ISBN 978-960-512-6810, 2015 (in greek)"
+  - "“Java Introduction to modern technology”, Greanier Todd, Giourdas Publications, ISBN 960-512-460-2, 2005 (in greek)"
+eclass: "https://e-class.ionio.gr/courses/DCS109/"
