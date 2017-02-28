@@ -1,19 +1,18 @@
 ---
 ref: hci
-title: " Computer Programming"
+title: "Business Administration"
 author: choko-en
-excerpt: "Top-down techniques, modular, and structured engineering for the production of large programs. Advanced dynamic data structures, basic file processing techniques (serial or random access). Classes and objects. Programming with objects. Operators, variables, methods, relations, dependencies, class diagrams. Functions: declaration, definition, overloading functions. Pointers, references, advanced functions, operator overloading. Inheritance. Polymorphism. Exception handling, error detection and handling. Programming with templates and template libraries. Object-oriented analysis and design. Design models. Predefined libraries. Programming Lab (Chosen language: “C++”)."
+excerpt: "Organization Theory, What is an organization, Dimensions of Organization Design, Organization Strategy, Fitting Design/ Goals to Strategy, Effectiveness vs. Efficiency,  Types of Organization Structure, Information and Communication Systems for Management Decision Making, Information Quality impact on  Decision Making, RFID-enabled Business Processes etc."
 ---
 
-code: ΗΥ110
+code: ΔΟ160
 semester: 2
-type: "Compulsory"
+type: "Elective"
 hours: 4
-extra: 2L
-ects: 6
+extra: -
+ects: 4
 
 
 bibliography: 
-  - "“C++ Προγραμματισμός”, 6η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Α. Γκιούρδα & ΣΙΑ ΟΕ, ISBN 978-960-512-5912, 2011 (in greek)"
-  - "“ΜΑΘΕΤΕ ΤΗ C++ ΑΠΟ ΤΟ ΜΗΔΕΝ”, HERBERT SCHILDT, Εκδόσεις Κλειδάριθμος, ISBN 960-209-731-0, 2004 (in greek)"
-eclass: "https://e-class.ionio.gr/courses/DCS159/"
+  - "“ORGANIZATION THORY AND DESIGN”, RICHARD L. DAFT, Klidarithos Publications, ISBN 960-209-846-5, 2005 (in Greek)"
+eclass: "https://e-class.ionio.gr/courses/DCS268/"
