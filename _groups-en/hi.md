@@ -1,6 +1,24 @@
 ---
 ref: hi
-title: "Research Fields"
-excerpt: "Humanistic and Social Informatics focus on the one hand on the application of ICT to the extraction, representation and processing of humanistic and social data that is derived from the respective scientific and artistic areas, like Psychology, Linguistics, History, Archaeology, Philosophy, Anthropology, Social Studies, Music and Arts. On the other hand, they employ methodologies adapted from these scientific and artistic areas in order to supply ICT products and services with optimum quality and a human-centered perspective. The Humanistic and Social Informatics Laboratory interests lie within educational, research and development activities in the areas of Cultural Informatics, Music Informatics, History Informatics, Computational Linguistics, Game Software Design and Development, Multimedia, Virtual Reality, Image Processing, ICT in Education, Knowledge Representation and Management, Computer-supported Cooperative Systems, Digital Media."
-web: "http://di.ionio.gr/en/uncategorized/humanistic-and-social-informatics-lab-hilab-2/hilab"
+title: "Research Areas"
+excerpt: "The Department of Informatics of the Ionian University is engaged in leading research that spans the theoretical and applied. The department’s research activities are orientated towards the development of novel applications in the research areas of Information Systems and Humanistic Informatics.
+
+As such, our research is organized around the following thematic areas:
+
+Security-Cryptography
+Biometrics
+Internet copyright protection systems
+Distributed Architecture of high performance computer systems
+Real time embedded systems
+Architecture of Systems with Advanced Computational Power
+Development of computational applications for non-local, non-linear dynamic systems
+Signal Processing
+Development of computational applications for random systems
+Development of computational applications for bio-systems
+Computational grids
+Artificial Intelligence – Genetic Algorithms
+Wireless computer networks, ad hoc and mesh networks
+Autonomous networks, performance analysis and scalability issues
+Quantum and Unconventional Computing"
+web: "http://di.ionio.gr/en/uncategorized/research-fields-2/"
 ---
