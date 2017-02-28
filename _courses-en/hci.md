@@ -6,7 +6,7 @@ excerpt: "Top-down techniques, modular, and structured engineering for the produ
 ---
 
 code: ΗΥ110
-semester: 1
+semester: 2
 type: "Compulsory"
 hours: 4
 extra: 2L
