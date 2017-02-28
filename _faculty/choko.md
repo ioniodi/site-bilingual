@@ -1,19 +1,20 @@
 ---
 ref: choko
-title: "Παναγιώτης Βλάμος"
-excerpt: "Μαθηματικά με έμφαση στα Μοντέλα Εφαρμογών"
+title: "Panagiotis Vlamos"
+excerpt: "Mathematics in Application Modelling"
 rank: 3
 author: choko
 ---
 
-rank: "Καθηγητής, Πρόεδρος Τμήματος Πληροφορικής"
+rank: "Professor"
 education:
-  - "Πτυχίο Μαθηματικών, Πανεπιστήμιο Αθηνών"
-  - "Διδακτορικό Δίπλωμα στα Μαθηματικά, Τμήμα Εφαρμοσμένων Μαθηματικών και Φυσικών Επιστημών, Ε.Μ. Πολυτεχνείου."
+  - "Diploma in Mathematics, University of Athens"
+  - "Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens"
 interests:
-  - "Μαθηματικά μοντέλα με εφαρμογές σε προβλήματα τεχνικών αποκατάστασης εικόνας φυσικών επιστημών και χημικής μηχανικής"
-  - "Διακριτά Μαθηματικά"
-  - "Μαθηματικά μοντέλα στην εκπαίδευση με χρήση νέων τεχνολογιών"
+  - "Mathematical modeling applied for image restoration purposes"
+  - "Mathematical modeling applied to physical and Chemical Engineering problems"
+  - "Discrete Mathematics"
+  - "Mathematical modeling in Education with the use of new technologies"
 contact:
   tel: "+30 26610 87710"
   web: "http://www.ionio.gr/~vlamos"
