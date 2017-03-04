@@ -9,3 +9,9 @@ choko:
   email: "choko@ionio.gr"
   bio: "Τεχνολογίες Λογισμικού"
   avatar: "/assets/images/choko.jpg"
+  
+  andronikos:
+   name: "Θεόδωρος Ανδρόνικος"
+   email: "andronikos@ionio.gr"
+   bio: "Διαδικτυακός Προγραμματισμός"
+   avatar: "/assets/images/andronikos.jpg"
