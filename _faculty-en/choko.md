@@ -1,22 +1,29 @@
 ---
 ref: choko
-title: "Konstantinos Chorianopoulos"
-excerpt: "Software Technologies"
+title: "Spyros Sioutas"
+excerpt: "Data Structures & Databases"
 rank: 3
 author: choko-en
 ---
 
-Position: "Assistant Professor"
+Position: "Assοciate Professor"
 Education:
-  - "Diploma in Electronic and Computer Engineering, Technical University of Crete"
-  - "MSc. Marketing and Communication, Athens University of Economics and Business"
-  - "Ph.D. in Human-Computer Interaction for Digital Television, Athens University of Economics and Business"
+  - "Graduated of the Computer Engineering and Informatics department (University of Patras).
+Diploma Thesis: “A multimedia Information System for the city of Patras: Network Connection with Database Servers located in the most popular Hotels and Transport Stations”."
+  - "Master Engineer of the Computer Engineering and Informatics Department (University of Patras).
+Master Thesis: “Eliminating Amortization. On Data Structures with Guaranteed Response Time”"
+  - "Doctor of Philosophy (PhD) on Computer Engineering and Informatics Department (University of Patras).
+PhD Thesis: “Efficient Algorithms and Robust Techniques for Spatial, Temporal and Spatio-Temporal Retrieval and Searching”"
 Interests:
-  - "Human-Computer Interaction"
-  - "Multimedia"
-  - "Software Engineering"
-  - "Ubiquitous Computing"
+  - "Efficient I/O Algorithms & Data Structures"
+  - "Computational Geometry and Computer Graphics"
+  - "Spatio-Temporal and Multimedia Databases"
+  - "Distributed Data Structures and Peer-to-Peer Computing"
+  - "Parallel and Distributed Data Structures and Cloud Computing"
+  - "Knowledge Data Discovery (KDD)"
+  - "Data Mining Algorithms"
+  - "Spatial Data Structures and Geographical Information Systems"
 Contact:
-  tel: "+30 26610 87707"
-  email: "choko@ionio.gr"
-  web: "http://www.epidro.me"
+  tel: "+30 26610 87706"
+  email: "sioutas@ionio.gr"
+  web: "http://di.ionio.gr/wp-content/uploads/2016/09/CV_Full_Sioutas-Sept-2016-EN.pdf"
