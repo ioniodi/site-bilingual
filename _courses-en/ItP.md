@@ -1,7 +1,7 @@
 ---
 ref: ItP
 title: "Introduction to Programming"
-author: ItP-en
+author: andronikos-en
 excerpt: "Short introduction to Informatics and Computer Science. The notion of algorithm as a finite sequence of instructions for the solution of problems and the notion of programming languages as a rigorous means of algorithm expression. The “C” language, its main characteristics, and the compilation and execution process of programs. The program structure in “C”, the basic programming commands and the flow control commands of the language. Simple data types, variable declaration, operators, and expressions. Arrays (of one or more dimensions), search and sorting in arrays. Elementary data structures, abstract data types, structures and unions. Pointers, relation between pointers and arrays, strings and pointers, type conversion, pointers to records, dynamic memory allocation. Linear lists, simply connected lists, queues, stacks, doubly connected lists. Trees and graphs, binary search trees. Programming Lab (Chosen language: “C”)."
 ---
 
