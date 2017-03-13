@@ -1,22 +1,20 @@
 ---
 ref: choko
-title: "Konstantinos Chorianopoulos"
-excerpt: "Software Technologies"
+title: "Vassilis Chrissikopoulos"
+excerpt: "IT – Networks – Information Security"
 rank: 3
 author: choko-en
 ---
 
-Position: "Assistant Professor"
+Position: "Professor – Rector of Ionian University"
 Education:
-  - "Diploma in Electronic and Computer Engineering, Technical University of Crete"
-  - "MSc. Marketing and Communication, Athens University of Economics and Business"
-  - "Ph.D. in Human-Computer Interaction for Digital Television, Athens University of Economics and Business"
+  - "Diploma in Mathematics, Aristotle University of Thessaloniki"
+  - "MSc Industrial Research, Chelsea College, London University"
+  - "PhD Royal Holloway, London University"
 Interests:
-  - "Human-Computer Interaction"
-  - "Multimedia"
-  - "Software Engineering"
-  - "Ubiquitous Computing"
+  - "Security"
+  - "Computer Networks"
 Contact:
-  tel: "+30 26610 87707"
-  email: "choko@ionio.gr"
-  web: "http://www.epidro.me"
+  tel: "+30 26610 87710"
+  email: "	vchris@ionio.gr"
+  web: "http://di.ionio.gr"
