@@ -1,6 +1,13 @@
 ---
 ref: hi
-title: "Humanistic and Social Informatics Lab (HILab)"
-excerpt: "Humanistic and Social Informatics focus on the one hand on the application of ICT to the extraction, representation and processing of humanistic and social data that is derived from the respective scientific and artistic areas, like Psychology, Linguistics, History, Archaeology, Philosophy, Anthropology, Social Studies, Music and Arts. On the other hand, they employ methodologies adapted from these scientific and artistic areas in order to supply ICT products and services with optimum quality and a human-centered perspective. The Humanistic and Social Informatics Laboratory interests lie within educational, research and development activities in the areas of Cultural Informatics, Music Informatics, History Informatics, Computational Linguistics, Game Software Design and Development, Multimedia, Virtual Reality, Image Processing, ICT in Education, Knowledge Representation and Management, Computer-supported Cooperative Systems, Digital Media."
-web: "http://di.ionio.gr/en/uncategorized/humanistic-and-social-informatics-lab-hilab-2/hilab"
+title: "After Graduation"
+excerpt: "The graduate of the Department of Informatics has the scientific and technical expertise to work as an IT professional, either as self-employed, or as an executive in the private or public sector.
+
+More specifically he can be employed as:
+
+Software Engineer
+Computer Systems Engineer
+Network and Telecommunications Engineer / Administrator
+Database Administrator"
+web: "http://di.ionio.gr/en/uncategorized/after-graduation-2/"
 ---
