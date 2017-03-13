@@ -1,19 +1,18 @@
 ---
 ref: hci
-title: "Human-Computer Interaction"
+title: "Business Administration"
 author: choko-en
-excerpt: "User needs, human-centered design, and interaction design. Design and development of interactive prototypes. Methods and techniques for user evaluation."
+excerpt: "Organization Theory, What is an organization, Dimensions of Organization Design, Organization Strategy, Fitting Design/ Goals to Strategy, Effectiveness vs. Efficiency,  Types of Organization Structure, Information and Communication Systems for Management Decision Making, Information Quality impact on  Decision Making, RFID-enabled Business Processes etc."
 ---
 
-code: 
-semester: 3
-type: "Compulsory"
+code: ΔΟ160
+semester: 2
+type: "Elective"
 hours: 4
-extra: 2L
-ects: 6
+extra: -
+ects: 4
 
 
 bibliography: 
-  - “Επικοινωνία ανθρώπου – υπολογιστή, 3ή Έκδοση, Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007"
-  - "Σχεδίαση διεπαφής χρήστη: Στρατηγικές για αποτελεσματική επικοινωνία ανθρώπου-υπολογιστή, ISBN: 9789604182565, Συγγραφέας: Ben Shneiderman, Catherine Plaisant, Εκδότης: Τζιόλα"
-eclass: "http://e-class.ionio.gr/courses/DCS147/"
+  - "“ORGANIZATION THORY AND DESIGN”, RICHARD L. DAFT, Klidarithos Publications, ISBN 960-209-846-5, 2005 (in Greek)"
+eclass: "https://e-class.ionio.gr/courses/DCS268/"
