@@ -1,11 +1,11 @@
 ---
 ref: hci
-title: "Human-Computer Interaction"
+title: "Object Oriented Programming"
 author: choko-en
-excerpt: "User needs, human-centered design, and interaction design. Design and development of interactive prototypes. Methods and techniques for user evaluation."
+excerpt: "Introduction to the notion of Object Oriented Programming. Basic notions of Java: variables, data, calculations. Branching structures, arrays. Classes, objects and Inheritance in Java. Interaction Environments in Java. The notion of exception and the various exception handling methods. Building Applets and the use of data input/output techniques. Execution threads and parallel programming in Java. Java graphics and animation. Java and web programming. Programming Lab (Chosen language: “Java”)."
 ---
 
-code: 
+code: ΗΥ130
 semester: 3
 type: "Compulsory"
 hours: 4
@@ -14,6 +14,6 @@ ects: 6
 
 
 bibliography: 
-  - “Επικοινωνία ανθρώπου – υπολογιστή, 3ή Έκδοση, Dix Alan J., Finlay Janet E., Abowd Gregory D., Beale Russell, Εκδόσεις Α. Γκιούρδα, ISBN 960-512-503-X, 2007"
-  - "Σχεδίαση διεπαφής χρήστη: Στρατηγικές για αποτελεσματική επικοινωνία ανθρώπου-υπολογιστή, ISBN: 9789604182565, Συγγραφέας: Ben Shneiderman, Catherine Plaisant, Εκδότης: Τζιόλα"
-eclass: "http://e-class.ionio.gr/courses/DCS147/"
+  - "“Java προγραμματισμός”, 10η Έκδοση, Paul Deitel, Harvey Deitel, Εκδόσεις Χ. ΓΚΙΟΥΡΔΑ ΣΙΑ ΕΕ, ISBN 978-960-512-6810, 2015 (in greek)"
+  - "“Java Introduction to modern technology”, Greanier Todd, Giourdas Publications, ISBN 960-512-460-2, 2005 (in greek)"
+eclass: "https://e-class.ionio.gr/courses/DCS109/"
