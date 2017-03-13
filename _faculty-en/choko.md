@@ -1,22 +1,21 @@
 ---
 ref: choko
-title: "Konstantinos Chorianopoulos"
-excerpt: "Software Technologies"
+title: "Panagiotis Vlamos"
+excerpt: "Mathematics in Application Modelling"
 rank: 3
-author: choko-en
+author: choko
 ---
 
-Position: "Assistant Professor"
-Education:
-  - "Diploma in Electronic and Computer Engineering, Technical University of Crete"
-  - "MSc. Marketing and Communication, Athens University of Economics and Business"
-  - "Ph.D. in Human-Computer Interaction for Digital Television, Athens University of Economics and Business"
-Interests:
-  - "Human-Computer Interaction"
-  - "Multimedia"
-  - "Software Engineering"
-  - "Ubiquitous Computing"
-Contact:
-  tel: "+30 26610 87707"
-  email: "choko@ionio.gr"
-  web: "http://www.epidro.me"
+rank: "Professor"
+education:
+  - "Diploma in Mathematics, University of Athens"
+  - "Ph.D. in Mathematics, Department of Mathematics, National Technical University of Athens"
+interests:
+  - "Mathematical modeling applied for image restoration purposes"
+  - "Mathematical modeling applied to physical and Chemical Engineering problems"
+  - "Discrete Mathematics"
+  - "Mathematical modeling in Education with the use of new technologies"
+contact:
+  tel: "+30 26610 87710"
+  web: "http://www.ionio.gr/~vlamos"
+  cv: "http://corfu.ionio.gr/depts/di/wp-content/uploads/2010/06/vlamos_cv_gr_2011.pdf"
