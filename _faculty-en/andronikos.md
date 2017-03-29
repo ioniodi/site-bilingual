@@ -2,7 +2,7 @@
 ref: andronikos
 title: "Theodore Andronikos"
 excerpt: "Internet Programming"
-rank: 3
+rank: "3"
 rank1: "pussy slayer"
 author: andronikos-en
 ---
