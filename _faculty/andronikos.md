@@ -3,7 +3,7 @@ ref: andronikos
 title: "Θεόδωρος Ανδρόνικος"
 excerpt: "Διαδικτυακός Προγραμματισμός"
 rank: "3"
-rank1: "επικουρακος"
+rank1: επικουρακος
 author: andronikos
 ---
 
