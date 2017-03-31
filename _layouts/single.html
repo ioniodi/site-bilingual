@@ -32,6 +32,8 @@ layout: default
       {% endunless %}
 
       <section class="page__content" itemprop="text">
+        {% if page.excerpt %}<div class="page__excerpt" itemprop="body">{{ page.excerpt | markdownify | remove: "<p>" | remove: "</p>" }}</div>{% endif %}
+        {% if page.semester %}<div class="page__excerpt" itemprop="body">{{ page.semester | markdownify | remove: "<p>" | remove: "</p>" }}</div>{% endif %}
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
       </section>

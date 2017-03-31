@@ -1,7 +1,7 @@
 ---
 ref: ai
 title: "Artificial Inteligence"
-semester: 6
+semester: "Semester : 6"
 author: kerman-en
 excerpt: "Aim and scope of AI. Historical data. Problem Solving. Search. Blind and informed Search. Adversarial Search. Propositional Logic. Predicate Logic. Reasoning and Resolution. Knowledge Representation. Semantic Networks. Conceptual Graphs. Machine Learning, Instance-based Learning, Decision Trees, Stochastic Learning. The Weka Machine Learning Toolkit. Expert Systems. The CLIPS Production System Language. Applications of AI."
 web: "https://e-class.ionio.gr/courses/NOC122/"
