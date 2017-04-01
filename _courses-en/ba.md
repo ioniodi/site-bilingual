@@ -13,6 +13,6 @@ ects: 4
 ---
 
 
-bibliography: 
+Bibliography: 
   - ““ORGANIZATION THORY AND DESIGN”, RICHARD L. DAFT, Klidarithos Publications, ISBN 960-209-846-5, 2005 (in Greek)"
   
