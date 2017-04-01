@@ -5,15 +5,16 @@ semester: 1
 author: 	vlamos
 excerpt: "Cartesian products, Relations, Algebraic structures, Tables, Matrix operations, Reverse Matrix, Inverse Matrix. Determinants and their properties, Linear systems, Gauss method, Gauss – Jordan method, Systems solved with the use of inverse matrix, Cramer method, Vector spaces, Kernel and Image of linear mappings, Eigenvalues and eigenvectors, Matrix diagonalization, Applications in Informatics."
 web: "https://e-class.ionio.gr/courses/DCS191/"
----
-
 code: ΜΘ110
 type: "Compulsory"
 hours: 4
 extra: 2L
 ects: 6
+---
 
-Βιβλιογραφία: 
+
+
+Bibliography: 
   - "S. Barnett,  Matrices Methods and Applications ,  Clarendon Press, Oxford,  1990."
   - "S. Barnett,  Polynomial and Linear Control Systems, Dekker, 1983."
   - "R. Bhatia, Matrix Analysis, Springer, 1996."
