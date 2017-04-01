@@ -13,7 +13,7 @@ ects: 4
 ---
 
 
-bibliography: 
+Bibliography: 
   - ““Introduction to the Theory of Computation”, SIPSER MICHAEL, ITE Publications, ISBN 978-960-524-243-5, 2009 (in greek)"
   - "“Elements of the Theory of Computation”Lewis Harry R., Papadimitriou Christos., Kritiki Publications, ISBN 978-960-218-397-7, 2005 (in greek)"
   
