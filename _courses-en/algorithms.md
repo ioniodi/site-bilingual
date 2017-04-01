@@ -21,7 +21,7 @@ eclass: "https://e-class.ionio.gr/courses/DCS237/"
 
 
 
-bibliography: 
+Bibliography: 
   - ““Introduction to Algorithms vol I”, CORMEN T.H., LEISERSON C.E., RIVEST R.L., STEIN C., ITE Publications, ISBN 978-960-524-225-1, 2009 (in greek)"
   - "“Algorithms”, Rawlins Gregory J. E., Kritiki Publications, ISBN 978-960-218-350-2, 2004 (in greek)"
 

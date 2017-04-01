@@ -14,5 +14,6 @@ ects: 6
 
 
 bibliography: 
--"Gollmann, D. (2011). Computer Security, 3rd Edition. Wiley, New York."
--"Anderson, R. (2008). Security engineering – A guide to building dependable distributed systems. John Wiley & Sons, New York."
+
+  -"Gollmann, D. (2011). Computer Security, 3rd Edition. Wiley, New York."  
+  -"Anderson, R. (2008). Security engineering – A guide to building dependable distributed systems. John Wiley & Sons, New York."

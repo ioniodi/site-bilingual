@@ -13,7 +13,7 @@ ects: 4
 ---
 
 
-Βιβλιογραφία: 
+Bibliography: 
   - "Pattern Classification, R. O. Duda, P.E. Hart and D.G. Stork, Wiley, 2001."
   - "Pattern Recognition, S. Theodoridis and K. Koutroumbas, Elsevier Acad. Press, 2006."
   - "Pattern Recognition and Machine Learning, CM Bishop, Springer, 2006."
