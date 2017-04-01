@@ -12,9 +12,5 @@ extra: 2E
 ects: 4
 ---
 
-
-Βιβλιογραφία: 
+Bibliography: 
   - "Ivan Bratko, Prolog Programming for Artificial Intelligence, 3rd Edition, Addison Wesley, 2000."
-  
-
-
