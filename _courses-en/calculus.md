@@ -8,12 +8,12 @@ code: ΜΘ100
 semester: 1
 type: "Compulsory"
 hours: 4
-extra: -
+extra: "-"
 ects: 6
 ---
 
 
-bibliography : 
+Bibliography : 
  - "Calculus, Volume I, Finney, Weir, Giordano, Crete University Press 2006."
  - "Vector Calculus, J. Marden and A. Tromba, University of Crete"
  - "CALCULUS, VOLUME II, FINNEY RL, WEIR MD, GIORDANO FR, University of Crete"
