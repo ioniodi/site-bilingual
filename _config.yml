@@ -360,7 +360,6 @@ defaults:
    # _groups
   - scope:
       path: ""
-      type: groups
     values:
       lang: gr
       sidebar:
@@ -374,7 +373,6 @@ defaults:
    # _groups-en
   - scope:
       path: ""
-      type: groups
     values:
       lang: en
       sidebar:
