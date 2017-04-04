@@ -34,14 +34,14 @@ menu:
    children:
     - title: "BIHELab"
       url: "/gr/groups/bihe/"
+    - title: "CMODLab"
+      url: "/gr/groups/cmod"
+    - title: "HILab"
+      url: "/gr/groups/hi/"     
     - title: "ISDLab"
       url: "/gr/groups/isd/"
     - title: "NMSLab"
-      url: "/gr/groups/nms/"
-    - title: "HILab"
-      url: "/gr/groups/hi/"
-    - title: "CMODLab"
-      url: "/gr/groups/cmod"
+      url: "/gr/groups/nms/
  - title: "ΠΡΟΓΡΑΜΜΑΤΑ"
    url: "/gr/projects/"
    children:
@@ -73,14 +73,15 @@ menu-en:
    children:
     - title: "BIHELab"
       url: "/en/groups/bihe/"
+    - title: "CMODLab"
+      url: "/en/groups/cmod"
+    - title: "HILab"
+      url: "/en/groups/hi/"     
     - title: "ISDLab"
       url: "/en/groups/isd/"
     - title: "NMSLab"
       url: "/en/groups/nms/"
-    - title: "HILab"
-      url: "/en/groups/hi/"
-    - title: "CMODLab"
-      url: "/en/groups/cmod"
+ 
  - title: "PROJECTS"
    url: "/en/projects/"
    children:
