@@ -360,11 +360,10 @@ defaults:
    # _groups
   - scope:
       path: ""
-      type: groups
     values:
       lang: gr
       sidebar:
-       nav: menu-en
+       nav: menu
       layout: single
       author_profile: true
       read_time: false
@@ -374,7 +373,6 @@ defaults:
    # _groups-en
   - scope:
       path: ""
-      type: groups
     values:
       lang: en
       sidebar:
