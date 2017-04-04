@@ -41,7 +41,7 @@ menu:
     - title: "ISDLab"
       url: "/gr/groups/isd/"
     - title: "NMSLab"
-      url: "/gr/groups/nms/
+      url: "/gr/groups/nms/"
  - title: "ΠΡΟΓΡΑΜΜΑΤΑ"
    url: "/gr/projects/"
    children:
