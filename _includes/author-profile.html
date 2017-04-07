@@ -32,11 +32,21 @@
         <li itemprop="homeLocation" itemscope itemtype="http://schema.org/Place">
           <i class="fa fa-fw fa-map-marker" aria-hidden="true"></i> <span itemprop="name">{{ author.location }}</span>
         </li>
-      {% endif %}
-
+      {% endif %} 
+  
+     <!--
       {% if author.uri %}
         <li>
-          <a href="{{ author.uri }}" itemprop="url">
+          <a href="{{ courses.uri }}" itemprop="url">
+            <i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
+          </a>
+        </li>
+      {% endif %}
+     -->
+    
+      {% if page.uri %}
+        <li>
+          <a href="{{ page.uri }}" itemprop="url">
             <i class="fa fa-fw fa-chain" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].website_label | default: "Website" }}
           </a>
         </li>
