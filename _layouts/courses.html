@@ -24,46 +24,141 @@ layout: default
     <div class="page__inner-wrap">
       {% unless page.header.overlay_color or page.header.overlay_image %}
         <header>
-          {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
-          {% if page.read_time %}
+          <center>
+            {% if page.title %}<h1 class="page__title" itemprop="headline">{{ page.title | markdownify | remove: "<p>" | remove: "</p>" }}</h1>{% endif %}
+          </center>
+          
+            {% if page.read_time %}
             <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
           {% endif %}
         </header>
       {% endunless %}
       
       {% if page.excerpt %}
-       <div>{{ page.excerpt }}</div>
+      <center>
+       <exerpt>{{ page.excerpt }}</exerpt>
+      </center>
       {% endif %}
       
-      {% if page.code %}
-        <div>{{ page.code }}</div>
-      {% endif %}
+      <p><!--αφηνω μια γραμμη κενηη-->    </p>
       
-      {% if page.semester %}
-        <div>{{ page.semester }}</div>
-      {% endif %}
-      
-      {% if page.type %}
-        <div>{{ page.type }}</div>
-      {% endif %}
-      
-      {% if page.hours %}
-        <div>{{ page.hours }}</div>
-      {% endif %}
-      
-      {% if page.extra %}
-        <div>{{ page.extra }}</div>
-      {% endif %}
-      
-      {% if page.ects %}
-        <div>{{ page.ects }}</div>
-      {% endif %}
-      
-      {% if page.uri %}
-        <div><a href="{{ page.uri }}">e-Class</a></div>
-      {% endif %}
-      
-      
+    <div> 
+      <head>
+      <meta charset='UTF-8'>
+
+      <title>Responsive Table</title>
+
+      <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+      <link rel="stylesheet" href="css/style.css">
+
+      <style>
+
+      /* 
+      Max width before this PARTICULAR table gets nasty
+      This query will take effect for any screen smaller than 760px
+      and also iPads specifically.
+      */
+      @media 
+      only screen and (max-width: 760px),
+      (min-device-width: 768px) and (max-device-width: 1024px)  {
+
+        /* Force table to not be like tables anymore */
+        table, thead, tbody, th, td, tr { 
+          display: block; 
+        }
+
+        /* Hide table headers (but not display: none;, for accessibility) */
+        thead tr { 
+          position: absolute;
+          top: -9999px;
+          left: -9999px;
+        }
+
+        tr { border: 1px solid #ccc; }
+
+        td { 
+          /* Behave  like a "row" */
+          border: none;
+          border-bottom: 1px solid #eee; 
+          position: relative;
+          padding-left: 50%; 
+        }
+
+        td:before { 
+          /* Now like a table header */
+          position: absolute;
+          /* Top/left values mimic padding */
+          top: 6px;
+          left: 6px;
+          width: 45%; 
+          padding-right: 10px; 
+          white-space: nowrap;
+        }
+
+        /*
+        Label the data
+        */
+        td:nth-of-type(1):before { content: "Semester"; }
+        td:nth-of-type(2):before { content: "eClass"; }
+        td:nth-of-type(3):before { content: "Code"; }
+        td:nth-of-type(4):before { content: "Type"; }
+        td:nth-of-type(5):before { content: "Hours"; }
+        td:nth-of-type(6):before { content: "Extra"; }
+        td:nth-of-type(7):before { content: "ECTS"; }
+      }
+
+      /* Smartphones (portrait and landscape) ----------- */
+      @media only screen
+      and (min-device-width : 320px)
+      and (max-device-width : 480px) {
+        body { 
+          padding: 0; 
+          margin: 0; 
+          width: 320px; }
+        }
+
+      /* iPads (portrait and landscape) ----------- */
+      @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+        body { 
+          width: 495px; 
+        }
+      }
+
+      </style>
+      <!--<![endif]-->
+
+    </head> <body>
+
+      <div id="page-wrap">
+      <table>
+        <thead>
+        <tr>
+          <th>Semester</th>
+          <th>eClass</th>
+          <th>Code</th>
+          <th>Type</th>
+          <th>Hours</th>
+          <th>Extra</th>
+          <th>ECTS</th>
+        </tr>
+        </thead>
+        <tbody>
+        <tr>
+          <td> {% if page.semester %} <div>{{ page.semester }}</div> {% endif %} </td>
+          <td> {% if page.uri %} <div><a href="{{ page.uri }}">e-Class</a></div> {% endif %} </td>
+          <td> {% if page.code %} <div>{{ page.code }}</div>{% endif %} </td>
+          <td> {% if page.type %} <div>{{ page.type }}</div> {% endif %} </td>
+          <td> {% if page.hours %} <div>{{ page.hours }}</div> {% endif %} </td>
+          <td> {% if page.extra %} <div>{{ page.extra }}</div> {% endif %} </td>
+          <td> {% if page.ects %} <div>{{ page.ects }}</div> {% endif %} </td>
+        </tr>
+        </tbody>
+      </table>
+
+      </div>
+
+    </body></div>
 
       <section class="page__content" itemprop="text">
         {{ content }}
