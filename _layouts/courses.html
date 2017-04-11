@@ -31,9 +31,12 @@ layout: default
         </header>
       {% endunless %}
       
-      <div>
+      {% if page.excerpt %}
+       <div>{{ page.excerpt }}</div>
+      {% endif %}
+      
       {% include courses-table.html %}
-      </div>
+      
       
 
       <section class="page__content" itemprop="text">
