@@ -2,7 +2,7 @@
   {% for course in site.courses and course_en in site.courses-en %}
   {% if course.author == author or course_en.author == author  %}
   <ul>
-    <li>{{ course.title }}</li>
+    <li>{{ course.title }} {{courses_en.title}}</li>
   </ul>
   {% endif %}
   {% endfor %}
