@@ -51,6 +51,9 @@ layout: default
       <div><a href="{{ page.cv }}">{{page.title}}'s CV</a></div>
       {% endif %}
       
+      {% assign author = page.author %}
+      {% include author-courses.html %}
+      
       <section class="page__content" itemprop="text">
         {{ content }}
         {% if page.link %}<div><a href="{{ page.link }}" class="btn">{{ site.data.ui-text[site.locale].ext_link_label | default: "Direct Link" }}</a></div>{% endif %}
