@@ -1,5 +1,5 @@
 
-{% assign posts = site.collections | where:'label',include.collection,group_by: 'rank' %}
+{% assign posts = site.collections | where:'label',include.collection | first %}
 {% for post in posts.docs %}
  {% include archive-single.html %}
 {% endfor %}
