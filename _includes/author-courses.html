@@ -3,14 +3,14 @@
     {% for course in site.courses %}
      {% if course.author == page.author %}
        <li>
-        <a href = "{{ course.uri }}"> {{ course.title }} </a>
+        <a href = "https://ioniodi.github.io/site1/gr/courses/{{ course.ref }}/"> {{ course.title }} </a>
        </li> 
      {% endif %}
     {% endfor %}
      {% for course in site.courses-en %}
      {% if course.author == page.author %}
        <li>
-        <a href = "{{ course.uri }}"> {{ course.title }} </a>
+        <a href = "https://ioniodi.github.io/site1/en/courses/{{ course.ref }}/"> {{ course.title }} </a>
        </li> 
      {% endif %}
     {% endfor %}
