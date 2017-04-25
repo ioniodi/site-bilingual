@@ -1,16 +1,18 @@
-<div>
-  {% for course in site.courses%}
-  {% if course.author == author %}
-  <ul>
-    <li>{{ course.title }}</li>
-  </ul>
-  {% endif %}
-  {% endfor %}
-  {% for course_en in site.courses-en%}
-  {% if course_en.author == author %}
-  <ul>
-    <li>{{ course_en.title }}</li>
-  </ul>
-  {% endif %}
-  {% endfor %}
-</div>
+<div class="courses-content">
+   <div style="height:100px;overflow:auto;" >
+    {% for course in site.courses %}
+     {% if course.author == page.author %}
+       <li>
+        <a href = "https://ioniodi.github.io/site1/gr/courses/{{ course.ref }}/"> {{ course.title }} </a>
+       </li> 
+     {% endif %}
+    {% endfor %}
+     {% for course in site.courses-en %}
+     {% if course.author == page.author %}
+       <li>
+        <a href = "https://ioniodi.github.io/site1/en/courses/{{ course.ref }}/"> {{ course.title }} </a>
+       </li> 
+     {% endif %}
+    {% endfor %}
+  </div>
+ </div>
