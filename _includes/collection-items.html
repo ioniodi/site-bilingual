@@ -1,4 +1,4 @@
-{% assign posts = site.collections | where:'label',include.collection | first | sort : 'semester' %}
+{% assign posts = site.collections | sort : 'semester' %}
 {% for post in posts.docs %}
  {% include archive-single.html %}
 {% endfor %}
