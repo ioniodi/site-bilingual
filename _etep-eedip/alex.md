@@ -4,7 +4,7 @@ title: "Αλέξανδρος Πανάρετος"
 capacity: "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
 author: alex
 tel: "+30 26610 87754"
-email: "andronikos@ionio.gr"
+email: "alex@ionio.gr"
 uri:  "http://www.ionio.gr/~alex"
 tags:
  - "Διαδικτυακός προγραμματισμός"
