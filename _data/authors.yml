@@ -224,9 +224,9 @@ vchris-en:
  bio:  "IT – Networks – Information Security"
  avatar: "/assets/images/vchris.jpg"
  
- svoul:
-  name: "	Σπύρος Βούλγαρης"
-  email:  " svoul@ionio.gr"
-  uri: -
-  capacity:  "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
-  avatar: "/assets/images/nophoto.jpg"
+svoul:
+ name: "	Σπύρος Βούλγαρης"
+ email:  " svoul@ionio.gr"
+ uri: -
+ capacity:  "Εργαστηριακό Διδακτικό Προσωπικό (Ε.ΔΙ.Π.) ΠΕ Τμήματος Πληροφορικής"
+ avatar: "/assets/images/nophoto.jpg"
