@@ -9,7 +9,7 @@
   {% for course_en in site.courses-en%}
   {% if course_en.author == author %}
   <ul>
-    <li>{{ course_en.title }}</li>
+    <li><a href="https://dimospagakis.github.io/site1/gr/courses-en/{{ course_en.ref }}/">{{ course_en.title }}</a></li>
   </ul>
   {% endif %}
   {% endfor %}
