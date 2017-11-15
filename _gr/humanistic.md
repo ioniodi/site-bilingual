@@ -1,6 +1,6 @@
 ---
 ref: humanistic
-layout: single
+title: "Ανθρωπιστικές Επιστήμες"
 ---
 
 {% include humanistic-courses.html %}
